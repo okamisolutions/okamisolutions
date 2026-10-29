@@ -10,6 +10,7 @@ Os projetos foram desenvolvidos por mim com assistência de ferramentas de IA.
 
 | Projeto | O que é | Estado |
 |---|---|---|
+| [OrcaSlicer](https://github.com/okamisolutions/OrcaSlicer) (fork) | Sete melhorias de calibração e multifilamento para o OrcaSlicer, em C++. Cada uma tem a sua branch e a sua compilação para Windows; o beta 1 e o beta 2 juntam todas | Beta 1 em uso; parte não testada |
 | [kobra3v2-orca-plugin](https://github.com/okamisolutions/kobra3v2-orca-plugin) | Três plugins Python independentes para o OrcaSlicer funcionar com a Anycubic Kobra 3 V2 e o ACE Pro: metadados para a tela, purga depois da carga e espera da mesa | Em uso |
 | [rinkhals-discovery-helper](https://github.com/okamisolutions/rinkhals-discovery-helper) | App do Rinkhals que mantém a impressora no grupo multicast SSDP, para o Anycubic Slicer Next achá-la em modo LAN | Funcionou; reinicialização não testada |
 | [kobra3-calibracao](https://github.com/okamisolutions/kobra3-calibracao) | Modelos, pós-processadores de G-code e geradores de testes de calibração da primeira camada | Parte testada |
